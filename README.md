@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <img alt="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-u&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
-  <img alt="solved" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chos9715" width="33%"/>
+  <img alt="solved" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chos9715"/>
 </div>
 
